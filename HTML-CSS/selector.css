@@ -1,6 +1,12 @@
 #satu{
     color: darkolivegreen;
 }
+.dua{
+    color: salmon;
+}
+p{
+    color: teal;
+}
 a:hover{
     color: red;
 }
