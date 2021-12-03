@@ -5,3 +5,15 @@ body{
 .first{
     background-color: aquamarine;
 }
+.second{
+    background-image: url('muehe.jpg');
+    min-height: 200px;
+    color: white;
+}
+.third{
+    background-image: url('muehe.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 200px;
+    color: white;
+}
